@@ -1,4 +1,4 @@
-import groovy.transform.Immutable
+package com.intothebasket.groovy.facade
 
 class BluetoothAudio{
     void searchDevice(){
@@ -39,7 +39,7 @@ class Mp3player{
 }
 
 /**
- * Class CarMusicSystem will act as Facade of Bluetooth music and Mp3 music player.
+ * Class com.intothebasket.groovy.facade.CarMusicSystem will act as Facade of Bluetooth music and Mp3 music player.
  * Groovy does mapping of methods for both the classes automatically.
  * The conflicting method volume is resolved as Bluetooth is the first implementation.
  * User can provide own implementation.
@@ -50,16 +50,16 @@ class CarMusicSystem{
 }
 
 
-class DelegateSample {
+class GroovyFacadeDemo {
 
     static void main(String[] args) {
         CarMusicSystem carMusicSystem = new CarMusicSystem(blueAudio: new BluetoothAudio(), mp3player: new Mp3player())
         carMusicSystem.searchDevice()
-        carMusicSystem.connect"CarAudio"
-        carMusicSystem.play"Hello Tune"
+        carMusicSystem.connect "CarAudio"
+        carMusicSystem.play "Hello Tune"
         carMusicSystem.volume()
-        carMusicSystem.stop ()
-        carMusicSystem.diconnect"CarAudio"
+        carMusicSystem.stop()
+        carMusicSystem.diconnect "CarAudio"
     }
 
 
