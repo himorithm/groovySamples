@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+1froH2E8TriafYy6y2DiTrTDyzS	.idea/workspace.xml	/^  <component name="ProjectId" id="1froH2E8TriafYy6y2DiTrTDyzS" \/>$/;"	i
+8f1eafbe-f90d-4f2c-a534-e9a62c56765a	.idea/workspace.xml	/^      <changelist id="8f1eafbe-f90d-4f2c-a534-e9a62c56765a" name="Default Changelist" comment=""/;"	i
+8f1eafbe-f90d-4f2c-a534-e9a62c56765a	.idea/workspace.xml	/^    <list default="true" id="8f1eafbe-f90d-4f2c-a534-e9a62c56765a" name="Default Changelist" com/;"	i
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS="-Xmx64m"$/;"	v
+DIRNAME	gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+Default	.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+GRADLE	.idea/workspace.xml	/^    <system id="GRADLE">$/;"	i
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+LOCAL-00001	.idea/workspace.xml	/^    <task id="LOCAL-00001" summary="gitignore">$/;"	i
+LOCAL-00002	.idea/workspace.xml	/^    <task id="LOCAL-00002" summary="Permutations and combinations using Groovy is Awsome">$/;"	i
+LOCAL-00003	.idea/workspace.xml	/^    <task id="LOCAL-00003" summary="Permutations and combinations using Groovy is Awsome">$/;"	i
+_SKIP	gradlew.bat	/^set _SKIP=2$/;"	v
+die	gradlew	/^die () {$/;"	f
+distributionBase	gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
+distributionPath	gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
+distributionUrl	gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-5.2.1-all.zip$/;"	k
+end	gradlew.bat	/^:end$/;"	l
+execute	gradlew.bat	/^:execute$/;"	l
+fail	gradlew.bat	/^:fail$/;"	l
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+gradle.version	.gradle/buildOutputCleanup/cache.properties	/^gradle.version=5.2.1$/;"	k
+groovySamples	README.md	/^# groovySamples$/;"	c
+init	gradlew.bat	/^:init$/;"	l
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l
+omega	gradlew.bat	/^:omega$/;"	l
+save	gradlew	/^save () {$/;"	f
+warn	gradlew	/^warn () {$/;"	f
+win9xME_args	gradlew.bat	/^:win9xME_args$/;"	l
+win9xME_args_slurp	gradlew.bat	/^:win9xME_args_slurp$/;"	l
+zipStoreBase	gradle/wrapper/gradle-wrapper.properties	/^zipStoreBase=GRADLE_USER_HOME$/;"	k
+zipStorePath	gradle/wrapper/gradle-wrapper.properties	/^zipStorePath=wrapper\/dists$/;"	k
