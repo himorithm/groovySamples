@@ -1,6 +1,6 @@
 package com.intothebasket.groovy.memonize
 
-
+import java.time.Duration
 import java.time.Instant
 
 class MemoizeDemo {
@@ -15,11 +15,10 @@ class MemoizeDemo {
 
         def then = Instant.now()
         println complexCal(1, 2)
-        println "First call is slower, completed in : ${java.time.Duration.between(then, Instant.now()).toMillis()} ms"
+        println "First call is slower, completed in : ${Duration.between(then, Instant.now()).toMillis()} ms"
         then = Instant.now()
         println complexCal(1, 2)
-        println "Cached Call is faster, completed in: ${java.time.Duration.between(then, Instant.now()).toMillis()} ms"
-
+        println "Cached Call is faster, completed in: ${Duration.between(then, Instant.now()).toMillis()} ms"
     }
 
 }

@@ -15,5 +15,5 @@ dependencies {
 }
 
 task personalTask {
-
+    println "Personal Task Executed"
 }
